@@ -1,9 +1,10 @@
 list:
-  - aBOBA
-  - aBOBA2
-  - aBOBA3
-  - aBOBA4
-  - aBOBA5
-  - aBOBA6
-  - aBOBA7
-  - aBOBA8
+- aBOBA
+- aBOBA2
+- aBOBA3
+- aBOBA4
+- aBOBA5
+- aBOBA6
+- aBOBA7
+- aBOBA8
+new_key: new_value
