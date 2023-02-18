@@ -1,4 +1,4 @@
-? !!python/name:builtins.list ''
-: - Bob1
-  - aboba
-  - aboba2
+list:
+- Bob1
+- aboba
+- aboba2
